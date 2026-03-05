@@ -47,7 +47,3 @@ docker run -it --rm -v "$PWD":/data tp-so
 ```
 
 Dentro do container podes aceder a `/data`.
-=======
-# SO
-Sistemos Operativos
->>>>>>> f0acde88c96afc4f0c850027600200d09dc87fa5
